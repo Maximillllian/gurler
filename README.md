@@ -1,4 +1,4 @@
-# gerler
+# gurler
 
 ## Project setup
 ```
