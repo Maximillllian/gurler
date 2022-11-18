@@ -3,4 +3,4 @@ export const LANGUAGES = {
     TURKISH: 'turkish',
 };
 
-export const DEFAULT_LANGUAGE = LANGUAGES.TURKISH;
+export const DEFAULT_LANGUAGE = LANGUAGES.ENGLISH;

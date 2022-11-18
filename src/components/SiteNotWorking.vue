@@ -9,7 +9,7 @@ import { DEFAULT_LANGUAGE } from '../utils/constants';
 
 const SORRY = {
     english: 'Sorry, the site is not working for technical reasons. Come back later',
-    turkish: 'Üzgünüm, site teknik nedenlerden dolayı çalışmıyor. Sonra tekrar uğra',
+    turkish: 'Afedersiniz teknik konularda sait çalışmıyor da sonra sizinle',
 };
 
 export default {
